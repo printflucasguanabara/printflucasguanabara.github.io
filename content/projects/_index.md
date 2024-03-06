@@ -1,6 +1,6 @@
 ---
-title: "Projetos"
-description: "Meus Projetos"
+title: " 🚧 Projetos  🚧"
+description: "Seção Projetos em construção  🚧"
 
 cardView: true
 
@@ -8,5 +8,5 @@ cardView: true
 ---
 
 
-A mix of various soft/hard+ware & programming that I went through, nothing special here.
+Seção Projetos em construção  🔨
 

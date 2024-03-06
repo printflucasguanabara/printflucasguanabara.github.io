@@ -6,13 +6,13 @@
   weight = 1
 
 [[main]]
-  name = "Blog"
+  name = " 🚧 Blog 🚧"
   pageRef = "blog"
   weight = 10
 
 
 [[main]]
-  name = "Projetos"
+  name = " 🚧 Projetos  🚧"
   pageRef = "projects"
   weight = 30
 
