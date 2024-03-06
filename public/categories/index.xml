@@ -7,23 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Sun, 22 Oct 2023 13:28:35 +0700</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 22:08:51 +0700</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OS</title>
       <link>https://example.org/categories/os/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
+      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
       
       <guid>https://example.org/categories/os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://example.org/categories/tutorial/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
-      
-      <guid>https://example.org/categories/tutorial/</guid>
       <description></description>
       
     </item>
@@ -34,6 +24,16 @@
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://example.org/categories/development/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tutorial</title>
+      <link>https://example.org/categories/tutorial/</link>
+      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/categories/tutorial/</guid>
       <description></description>
       
     </item>

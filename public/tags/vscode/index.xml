@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>VSCode on Lucas F. Guanabara</title>
+    <title>vscode on Lucas F. Guanabara</title>
     <link>https://example.org/tags/vscode/</link>
-    <description>Recent content in VSCode on Lucas F. Guanabara</description>
+    <description>Recent content in vscode on Lucas F. Guanabara</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 22:08:51 +0700</lastBuildDate><atom:link href="https://example.org/tags/vscode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VSCode &#43; HUGO</title>
+      <link>https://example.org/blog/hugovscode/</link>
+      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
+      
+      <guid>https://example.org/blog/hugovscode/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>test</title>
       <link>https://example.org/blog/test/</link>
