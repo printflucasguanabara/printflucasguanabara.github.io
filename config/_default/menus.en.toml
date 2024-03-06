@@ -1,0 +1,62 @@
+# NAV DO PORTFOLIO
+
+[[main]]
+  name = "Agora"
+  pageRef = "now"
+  weight = 1
+
+[[main]]
+  name = "Blog"
+  pageRef = "blog"
+  weight = 10
+
+
+[[main]]
+  name = "Projetos"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Sobre"
+  pageRef = "about"
+  weight = 90
+
+[[main]]
+  name = "Usos"
+  pageRef = "uses"
+  weight = 90
+
+#[[main]]
+#  name = "Test"
+#  pageRef = "pagTest"
+#  weight = 1000
+
+
+
+
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/printflucasguanabara"
+  weight = 400
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "Info"
+   pageRef = "att"
+   weight = 20
+
+ [[footer]]
+   name = "Download CV"
+   pageRef = "curriculum"
+   weight = 30

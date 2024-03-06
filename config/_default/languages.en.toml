@@ -1,0 +1,29 @@
+languageCode = "pt-BR"
+languageName = "Portuguese"
+weight = 1
+title = "Lucas F. Guanabara"
+
+[params]
+  displayName = "pt"
+  isoCode = "pt-BR"
+  rtl = false
+  dateFormat = "02/01/2006"
+  logo = "img/logo.png"
+  # secondaryLogo = "PATH"
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "Lucas F. Guanabara"
+  image = "img/lucas-home.jpeg"
+  headline = "Sinta-se à vontade para explorar meu site e acompanhar minha evolução nesse mundo em constante transformação!."
+  bio = "Sinta-se à vontade para explorar meu site e acompanhar minha evolução nesse mundo em constante transformação!."
+  links = [
+    { github = "https://github.com/printflucasguanabara" },
+    { linkedin = "https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" },
+    { codepen = "https://codepen.io/printflucasguanabara" },
+    { discord = "#"},
+
+  ]
+
+  
