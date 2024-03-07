@@ -1,10 +1,10 @@
 languageCode = "pt-BR"
-languageName = "Portuguese"
+languageName = "pt-BR"
 weight = 1
 title = "Lucas F. Guanabara"
 
 [params]
-  displayName = "pt"
+  displayName = "pt-BR"
   isoCode = "pt-BR"
   rtl = false
   dateFormat = "02/01/2006"

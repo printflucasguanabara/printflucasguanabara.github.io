@@ -7,6 +7,9 @@ date: 2024-03-04
 draft: false
 authors:
   - lucasfguanabara
+
+showViews: true
+howLikes: true
 ---
 
 ## TL;DR

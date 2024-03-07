@@ -14,14 +14,14 @@ disableTextInHeader = false
 logo = "img/logo-site.png"
 
 defaultBackgroundImage = "img/bg.jpg" # used as default for background images 
-defaultFeaturedImage = "img/bg.jpg" # used as default for featured images in all articles
+defaultFeaturedImage = "img/default.gif" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed" 
 
 [footer]
   showMenu = true

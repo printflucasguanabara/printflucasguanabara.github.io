@@ -1,6 +1,6 @@
 ---
-title: " 🚧 Projetos  🚧"
-description: "Seção Projetos em construção  🚧"
+title: "Projetos"
+description: "Descubra o que faço no meu tempo livre"
 
 cardView: true
 
@@ -8,5 +8,5 @@ cardView: true
 ---
 
 
-Seção Projetos em construção  🔨
+Descubra o que faço no meu tempo livre
 
