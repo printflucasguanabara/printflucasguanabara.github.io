@@ -7,6 +7,12 @@ tags: ["Desafio Técnico", "HTML", "CSS", "JavaScript"]
 
 ---
 
+{{< keywordList >}}
+{{< keyword icon="code" >}} **HTML** {{< /keyword >}}
+{{< keyword icon="code" >}} **CSS**{{< /keyword >}}
+{{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
+{{< /keywordList >}}
+
 > ORIGINALMENTE ESCRITO EM INGLÊS,
 > 
 > TRADUÇÃO DESTE README [AUTOSALES-landing-page](https://github.com/printflucasguanabara/AUTOSALES-landing-page)

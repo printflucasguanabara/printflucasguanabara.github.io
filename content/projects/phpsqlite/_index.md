@@ -6,11 +6,9 @@ draft: false
 tags: ["PHP","SQLite3","SQL", "Replit"]
 ---
 
-{{< alert icon="fire" cardColor="#1e40af" iconColor="#60a5fa" textColor="#f1faee" >}}
-Simply Dotfiles, not bad useful!!
-{{< /alert >}}
 
-[{{< icon "github" >}} Repositório](https://github.com/adilhyz/dotfiles-v1) | [{{< icon "link" >}} Demonstração](#instalasi)
+
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/CRUDSQlite3) | [{{< icon "link" >}} Demonstração Replit]( replit.com/@lucasffguanabar/CRUDSQlite )
 
 ## Resumo do Projeto
 

@@ -13,6 +13,12 @@ showDate : true
 
 ---
 
+{{< keywordList >}}
+{{< keyword icon="code" >}} **HTML** {{< /keyword >}}
+{{< keyword icon="code" >}} **CSS**{{< /keyword >}}
+{{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
+{{< /keywordList >}}
+
 
 [{{< icon "github" >}} Repositório](https://github.com/adilhyz/dotfiles-v1) | [{{< icon "link" >}} Demonstração](#instalasi)
 

@@ -10,11 +10,11 @@ tags: ["HTML", "CSS", "JavaScript"]
 
 
 
-
-
-{{< badge >}}
-New article!
-{{< /badge >}}
+{{< keywordList >}}
+{{< keyword icon="code" >}} **HTML** {{< /keyword >}}
+{{< keyword icon="code" >}} **CSS**{{< /keyword >}}
+{{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
+{{< /keywordList >}}
 
 {{< lead >}}
  Este projeto é uma ferramenta simples e eficaz para baixar músicas em formato MP3 diretamente do YouTube.

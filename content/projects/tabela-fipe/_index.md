@@ -10,9 +10,18 @@ authors:
 
 showSummary: true
 ---
-{{< lead >}}
 
-{{< /lead >}}
+{{< keywordList >}}
+{{< keyword icon="code" >}} **HTML** {{< /keyword >}}
+{{< keyword icon="code" >}} **CSS**{{< /keyword >}}
+{{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
+{{< /keywordList >}}
+
+<br>
+
+{{< alert icon="code" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+Projeto em desenvolvimento!
+{{< /alert >}}
 
 [{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/tabela-FIPE) | [{{< icon "link" >}} Tabela FIPE](https://tabela-fipe-two.vercel.app/) 
 

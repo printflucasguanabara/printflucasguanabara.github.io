@@ -10,13 +10,13 @@ title = "Lucas F. Guanabara"
   dateFormat = "02/01/2006"
   logo = "img/logo.png"
   # secondaryLogo = "PATH"
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  description = "Lucas Portfolio"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
   name = "Lucas F. Guanabara"
   image = "img/lucas-home.jpeg"
-  headline = "Sinta-se à vontade para explorar meu site e acompanhar minha evolução nesse mundo em constante transformação!."
+  headline = "Estudante de T.I | Desenvolvedor Fullstack | Entusiasta de CyberSec"
   bio = "Sinta-se à vontade para explorar meu site e acompanhar minha evolução nesse mundo em constante transformação!."
   links = [
     { github = "https://github.com/printflucasguanabara" },
