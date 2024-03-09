@@ -6,7 +6,7 @@ tags: ["HTML","CSS","JS", "Public API"]
 draft: false
 showauthor: true
 authors:
-  - nunocoracao
+  - lucasfguanabara
 
 showSummary: true
 ---

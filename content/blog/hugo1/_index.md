@@ -6,6 +6,10 @@ draft: false
 tags: ["hugo","golang","vscode"]
 categories: ["OS"]
 showHero: false
+authors:
+  - lucasfguanabara
+
+  
 
 
 ---

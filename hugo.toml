@@ -1,3 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'pt-BR'
 title = 'Lucas F. Guanabara'
+
+defaultContentLanguage = "pt-br"
