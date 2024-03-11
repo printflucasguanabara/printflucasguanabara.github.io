@@ -36,3 +36,4 @@ showHero: false
 - **Shell:** zsh with zim-fw
 - **Editor:** VS Code & neovim
 - **Site**: Hugo + Github + Netlify + Vercel
+- **Design**: Photoshop 2022, FIGMA, Adobe XD
