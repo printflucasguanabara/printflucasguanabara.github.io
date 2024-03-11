@@ -2,7 +2,7 @@
 
 [[main]]
   name = "Agora"
-  pageRef = "now"
+  pageRef = "Agora"
   weight = 1
 
 [[main]]
@@ -13,17 +13,17 @@
 
 [[main]]
   name = "Projetos"
-  pageRef = "projects"
+  pageRef = "projetos"
   weight = 30
 
 [[main]]
   name = "Sobre"
-  pageRef = "about"
+  pageRef = "sobre"
   weight = 90
 
 [[main]]
   name = "Usos"
-  pageRef = "uses"
+  pageRef = "usos"
   weight = 90
 
 
@@ -45,7 +45,7 @@
 
  [[footer]]
    name = "Info"
-   pageRef = "att"
+   pageRef = "info"
    weight = 20
 
  [[footer]]

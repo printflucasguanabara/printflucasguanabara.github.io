@@ -13,7 +13,7 @@ disableTextInHeader = false
 
 logo = "img/logo-site.png"
 
-defaultBackgroundImage = "img/bg.jpg" # used as default for background images 
+defaultBackgroundImage = "img/bg1.jpg" # used as default for background images 
 defaultFeaturedImage = "img/default.gif" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
@@ -32,11 +32,11 @@ smartTOCHideUnfocusedChildren = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "img/bg.jpg" 
+  homepageImage = "img/bg1.jpg" 
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/blog"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = true
