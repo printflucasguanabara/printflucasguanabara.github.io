@@ -1,14 +1,15 @@
 languageCode = "pt-br"
 languageName = "Brasillll"
 weight = 1
-title = "Lucas F. Guanabara"
+title = ""
 
 [params]
   displayName = "PT-BR"
   isoCode = "pt-br"
   rtl = false
   dateFormat = "02/01/2006"
-  logo = "img/logo.png"
+  logo = "img/logo1.png"
+  secondaryLogo = "img/logo-inverted.png"
   # secondaryLogo = "PATH"
   description = "Lucas Portfolio"
   # copyright = "Copy, _right?_ :thinking_face:"
