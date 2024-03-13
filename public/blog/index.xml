@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🚧 Blog 🚧 on Lucas F. Guanabara</title>
-    <link>https://example.org/blog/</link>
-    <description>Recent content in 🚧 Blog 🚧 on Lucas F. Guanabara</description>
+    <title>Posts &amp; Talks on </title>
+    <link>https://lucasgnbr.github.io/blog/</link>
+    <description>Recent content in Posts &amp; Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://lucasgnbr.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

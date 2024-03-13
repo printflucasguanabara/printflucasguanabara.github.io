@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors Taxonomy Listing Example on Lucas F. Guanabara</title>
-    <link>https://example.org/authors/</link>
-    <description>Recent content in Authors Taxonomy Listing Example on Lucas F. Guanabara</description>
+    <title>Authors Taxonomy Listing Example on </title>
+    <link>https://lucasgnbr.github.io/authors/</link>
+    <description>Recent content in Authors Taxonomy Listing Example on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nuno Coração</title>
-      <link>https://example.org/authors/lucasfguanabara/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <title>Lucas F. Guanabara</title>
+      <link>https://lucasgnbr.github.io/authors/lucasfguanabara/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/authors/lucasfguanabara/</guid>
-      <description>Nuno&amp;rsquo;s awesome dummy bio.</description>
+      <guid>https://lucasgnbr.github.io/authors/lucasfguanabara/</guid>
+      <description>Staff Product Manager</description>
       
     </item>
     
     <item>
       <title>nunocoracao</title>
-      <link>https://example.org/authors/nunocoracao/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://lucasgnbr.github.io/authors/nunocoracao/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/authors/nunocoracao/</guid>
+      <guid>https://lucasgnbr.github.io/authors/nunocoracao/</guid>
       <description></description>
       
     </item>

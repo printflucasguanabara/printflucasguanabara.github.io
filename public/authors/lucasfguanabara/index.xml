@@ -1,30 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nuno Coração on Lucas F. Guanabara</title>
-    <link>https://example.org/authors/lucasfguanabara/</link>
-    <description>Recent content in Nuno Coração on Lucas F. Guanabara</description>
+    <title>Lucas F. Guanabara on </title>
+    <link>https://lucasgnbr.github.io/authors/lucasfguanabara/</link>
+    <description>Recent content in Lucas F. Guanabara on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/authors/lucasfguanabara/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/authors/lucasfguanabara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resenha rápida - HUGO</title>
+      <link>https://lucasgnbr.github.io/blog/hugo1/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/blog/hugo1/</guid>
+      <description>Oque achei do HUGO?</description>
+      
+    </item>
+    
     <item>
       <title>Utilidades, Ferramentas</title>
-      <link>https://example.org/blog/utilidades/</link>
+      <link>https://lucasgnbr.github.io/blog/utilidades/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/blog/utilidades/</guid>
-      <description>Alguns links de, &lt;strong&gt;Ferramentas, Utilidades, Estudos&lt;/strong&gt; que me ajudam bastante, e que pode te ajudar também.</description>
+      <guid>https://lucasgnbr.github.io/blog/utilidades/</guid>
+      <description>Alguns links de &lt;strong&gt;Ferramentas, Utilidades, Estudos&lt;/strong&gt; que me ajudam bastante, e que pode te ajudar também.</description>
       
     </item>
     
     <item>
       <title>App de Receitas</title>
-      <link>https://example.org/projects/receitas-app/</link>
+      <link>https://lucasgnbr.github.io/projetos/receitas-app/</link>
       <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/projects/receitas-app/</guid>
+      <guid>https://lucasgnbr.github.io/projetos/receitas-app/</guid>
       <description>aplicativo web dedicado a tornar a busca por receitas uma experiência simples e deliciosa. Utilizando como dados a API MealDB!</description>
+      
+    </item>
+    
+    <item>
+      <title>Tabela FIPE</title>
+      <link>https://lucasgnbr.github.io/projetos/tabela-fipe/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/projetos/tabela-fipe/</guid>
+      <description>Tabela FIPE é uma aplicação web simples que permite aos usuários pesquisar o preço médio de veículos com base na marca e modelo selecionados</description>
       
     </item>
     

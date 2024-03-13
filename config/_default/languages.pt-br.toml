@@ -24,7 +24,9 @@ title = ""
     { github = "https://github.com/printflucasguanabara" },
     { linkedin = "https://www.linkedin.com/in/lucas-f-guanabara-1a688b1b7/" },
     { codepen = "https://codepen.io/printflucasguanabara" },
-    { email = "mailto:lucasff.guanabara@gmail.com"}
+    { email = "mailto:lucasff.guanabara@gmail.com"},
+    { code ="https://app.daily.dev/lucasfguanabara"},
+    { google = "https://developers.google.com/profile/u/lucasguanabara?authuser=1"}
 
   ]
 

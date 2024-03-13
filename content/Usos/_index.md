@@ -1,5 +1,5 @@
 ---
-title: "Oque eu uso?"
+title: "Oque eu uso? / Ambiente de Trabalho."
 date: 2024-03-04
 draft: false
 description: "Some real-life Blowfish examples."

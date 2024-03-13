@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>users on Lucas F. Guanabara</title>
-    <link>https://example.org/tags/users/</link>
-    <description>Recent content in users on Lucas F. Guanabara</description>
+    <title>users on </title>
+    <link>https://lucasgnbr.github.io/tags/users/</link>
+    <description>Recent content in users on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/users/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/tags/users/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oque eu uso?</title>
-      <link>https://example.org/uses/</link>
+      <title>Oque eu uso? / Ambiente de Trabalho.</title>
+      <link>https://lucasgnbr.github.io/usos/</link>
       <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/uses/</guid>
+      <guid>https://lucasgnbr.github.io/usos/</guid>
       <description>Hardware # Notebook: Ideapad 320 15”, Intel i7-7500U 3.</description>
       
     </item>

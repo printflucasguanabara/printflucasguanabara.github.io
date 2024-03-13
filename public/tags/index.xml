@@ -1,319 +1,309 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Lucas F. Guanabara</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on Lucas F. Guanabara</description>
+    <title>Tags on </title>
+    <link>https://lucasgnbr.github.io/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Mon, 04 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Links</title>
-      <link>https://example.org/tags/links/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/links/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>sample</title>
-      <link>https://example.org/tags/sample/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/sample/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://example.org/tags/tools/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/tools/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>users</title>
-      <link>https://example.org/tags/users/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/users/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Utilidades</title>
-      <link>https://example.org/tags/utilidades/</link>
-      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/utilidades/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ArchLinux</title>
-      <link>https://example.org/tags/archlinux/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/archlinux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>bspwm</title>
-      <link>https://example.org/tags/bspwm/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/bspwm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>dotfiles</title>
-      <link>https://example.org/tags/dotfiles/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/dotfiles/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://example.org/tags/linux/</link>
-      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/linux/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>now</title>
-      <link>https://example.org/tags/now/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/now/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>API</title>
-      <link>https://example.org/tags/api/</link>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/api/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CSS</title>
-      <link>https://example.org/tags/css/</link>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/css/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>HTML</title>
-      <link>https://example.org/tags/html/</link>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/html/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>JavaScript</title>
-      <link>https://example.org/tags/javascript/</link>
-      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/javascript/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PHP</title>
-      <link>https://example.org/tags/php/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/php/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Replit</title>
-      <link>https://example.org/tags/replit/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/replit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SQL</title>
-      <link>https://example.org/tags/sql/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/sql/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SQLite3</title>
-      <link>https://example.org/tags/sqlite3/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/sqlite3/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>1</title>
-      <link>https://example.org/tags/1/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
-      
-      <guid>https://example.org/tags/1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>2</title>
-      <link>https://example.org/tags/2/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
-      
-      <guid>https://example.org/tags/2/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>3</title>
-      <link>https://example.org/tags/3/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
-      
-      <guid>https://example.org/tags/3/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>4</title>
-      <link>https://example.org/tags/4/</link>
-      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
-      
-      <guid>https://example.org/tags/4/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>golang</title>
-      <link>https://example.org/tags/golang/</link>
-      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
+      <link>https://lucasgnbr.github.io/tags/golang/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/golang/</guid>
+      <guid>https://lucasgnbr.github.io/tags/golang/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://example.org/tags/hugo/</link>
-      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
+      <link>https://lucasgnbr.github.io/tags/hugo/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/hugo/</guid>
+      <guid>https://lucasgnbr.github.io/tags/hugo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>vscode</title>
-      <link>https://example.org/tags/vscode/</link>
-      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
+      <link>https://lucasgnbr.github.io/tags/vscode/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/vscode/</guid>
+      <guid>https://lucasgnbr.github.io/tags/vscode/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://lucasgnbr.github.io/tags/links/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/links/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>https://lucasgnbr.github.io/tags/sample/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/sample/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://lucasgnbr.github.io/tags/tools/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/tools/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>users</title>
+      <link>https://lucasgnbr.github.io/tags/users/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/users/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Utilidades</title>
+      <link>https://lucasgnbr.github.io/tags/utilidades/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/utilidades/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://lucasgnbr.github.io/tags/go/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/go/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://lucasgnbr.github.io/tags/html/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://lucasgnbr.github.io/tags/javascript/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/javascript/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MarkDown</title>
+      <link>https://lucasgnbr.github.io/tags/markdown/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tailwind CSS</title>
+      <link>https://lucasgnbr.github.io/tags/tailwind-css/</link>
+      <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/tailwind-css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>now</title>
+      <link>https://lucasgnbr.github.io/tags/now/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/now/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://lucasgnbr.github.io/tags/css/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>https://lucasgnbr.github.io/tags/api/</link>
+      <pubDate>Sun, 03 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PHP</title>
+      <link>https://lucasgnbr.github.io/tags/php/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/php/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Replit</title>
+      <link>https://lucasgnbr.github.io/tags/replit/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/replit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQL</title>
+      <link>https://lucasgnbr.github.io/tags/sql/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/sql/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SQLite3</title>
+      <link>https://lucasgnbr.github.io/tags/sqlite3/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/sqlite3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>1</title>
+      <link>https://lucasgnbr.github.io/tags/1/</link>
+      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>2</title>
+      <link>https://lucasgnbr.github.io/tags/2/</link>
+      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>3</title>
+      <link>https://lucasgnbr.github.io/tags/3/</link>
+      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/3/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>4</title>
+      <link>https://lucasgnbr.github.io/tags/4/</link>
+      <pubDate>Sun, 22 Oct 2023 13:28:35 +0700</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/4/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JS</title>
-      <link>https://example.org/tags/js/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <link>https://lucasgnbr.github.io/tags/js/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/js/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NASA</title>
-      <link>https://example.org/tags/nasa/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/nasa/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>NASA-api</title>
-      <link>https://example.org/tags/nasa-api/</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/tags/nasa-api/</guid>
+      <guid>https://lucasgnbr.github.io/tags/js/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Public API</title>
-      <link>https://example.org/tags/public-api/</link>
+      <link>https://lucasgnbr.github.io/tags/public-api/</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/public-api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Desafio Técnico</title>
+      <link>https://lucasgnbr.github.io/tags/desafio-t%C3%A9cnico/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/tags/desafio-t%C3%A9cnico/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NASA</title>
+      <link>https://lucasgnbr.github.io/tags/nasa/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/public-api/</guid>
+      <guid>https://lucasgnbr.github.io/tags/nasa/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Congo</title>
-      <link>https://example.org/tags/congo/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <title>NASA-api</title>
+      <link>https://lucasgnbr.github.io/tags/nasa-api/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/congo/</guid>
+      <guid>https://lucasgnbr.github.io/tags/nasa-api/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Docker</title>
-      <link>https://example.org/tags/docker/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
+      <title>em construção</title>
+      <link>https://lucasgnbr.github.io/tags/em-constru%C3%A7%C3%A3o/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/tags/docker/</guid>
+      <guid>https://lucasgnbr.github.io/tags/em-constru%C3%A7%C3%A3o/</guid>
       <description></description>
       
     </item>

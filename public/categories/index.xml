@@ -1,39 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Lucas F. Guanabara</title>
-    <link>https://example.org/categories/</link>
-    <description>Recent content in Categories on Lucas F. Guanabara</description>
+    <title>Categories on </title>
+    <link>https://lucasgnbr.github.io/categories/</link>
+    <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-BR</language>
+    <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Wed, 20 Sep 2023 22:08:51 +0700</lastBuildDate><atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OS</title>
-      <link>https://example.org/categories/os/</link>
-      <pubDate>Wed, 20 Sep 2023 22:08:51 +0700</pubDate>
+      <link>https://lucasgnbr.github.io/categories/os/</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/os/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://example.org/categories/development/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/categories/development/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Tutorial</title>
-      <link>https://example.org/categories/tutorial/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/categories/tutorial/</guid>
+      <guid>https://lucasgnbr.github.io/categories/os/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>em construção on </title>
+    <link>https://lucasgnbr.github.io/tags/em-constru%C3%A7%C3%A3o/</link>
+    <description>Recent content in em construção on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 Lucas F. Guanabara</copyright>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/tags/em-constru%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>59 games</title>
+      <link>https://lucasgnbr.github.io/projetos/59games/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/projetos/59games/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>APP Notas Web</title>
+      <link>https://lucasgnbr.github.io/projetos/notasweb/</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lucasgnbr.github.io/projetos/notasweb/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
