@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP on </title>
-    <link>https://lucasgnbr.github.io/tags/php/</link>
+    <link>https://printflucasguanabaras.github.io/tags/php/</link>
     <description>Recent content in PHP on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>© 2024 Lucas F. Guanabara</copyright>
-    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lucasgnbr.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://printflucasguanabaras.github.io/tags/php/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PHP SQLite3</title>
-      <link>https://lucasgnbr.github.io/projetos/phpsqlite/</link>
+      <link>https://printflucasguanabaras.github.io/projetos/phpsqlite/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lucasgnbr.github.io/projetos/phpsqlite/</guid>
+      <guid>https://printflucasguanabaras.github.io/projetos/phpsqlite/</guid>
       <description>CRUD utilizando PHP e SQLite3 como banco de dados local.</description>
       
     </item>
