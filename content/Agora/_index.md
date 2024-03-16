@@ -27,11 +27,29 @@ layoutBackgroundHeaderSpace: false
 <br>
 
 - Fazendo diversos defaios variados com JS.
-- Estudando REACT após pegar um bom conhecimento com JS Vanilla
-- Finalmente lendo o meu procrastinado livro, o Codigo Limpo
+- Estudando **TypeScript** após pegar um bom conhecimento com JS Vanilla
+- Finalmente lendo o meu procrastinado livro, o **Codigo Limpo**
 - Començando a usar Linux (Manjaro), ainda utilizo ele com VMVirtualBox, penso seriamente em usar ele como OS principal.
 
-<br><br>
+<div class="images-inline">
+    <img style="border-radius: 10%" src="book1.jpeg"/>
+</div>
+<div class="images-inline">
+    <img style="border-radius: 10%" src="manjaro-setup.jpeg"/>  
+</div>
+
+<style>
+div.images-inline {
+	width: 150px;
+	display: inline-block;
+  border-radius: 3%;
+  margin-left: 8px;
+  
+}
+</style>
+
+
+<br>
 
 #### Se quiser saber mais sobre o assunto, [What is a “now page”?][nowpage].
 
