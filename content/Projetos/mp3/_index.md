@@ -16,6 +16,8 @@ tags: ["HTML", "CSS", "JavaScript"]
 {{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
 {{< /keywordList >}}
 
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/yt-mp3-downloader) | [{{< icon "link" >}} MP3 Downloader]( https://youtube-mp3-downloader-six.vercel.app/ )
+
 {{< lead >}}
  Este projeto é uma ferramenta simples e eficaz para baixar músicas em formato MP3 diretamente do YouTube.
 {{< /lead >}}

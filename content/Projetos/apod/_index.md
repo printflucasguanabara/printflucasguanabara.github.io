@@ -15,7 +15,7 @@ showDate: true
 {{< keyword icon="code" >}} **JavaScript**{{< /keyword >}}
 {{< /keywordList >}}
 
-[{{< icon "github" >}} Repositório](https://github.com/adilhyz/dotfiles-v1) | [{{< icon "link" >}} Demonstração](#instalasi)
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/nasa-APOD) | [{{< icon "link" >}} Demonstração](https://nasa-apod-beige.vercel.app/)
 
 Este é um projeto que utiliza a API da NASA para trazer diariamente a imagem astronômica do dia.
 Veja o Website original [apod.nasa.gov](https://apod.nasa.gov/apod/astropix.html).

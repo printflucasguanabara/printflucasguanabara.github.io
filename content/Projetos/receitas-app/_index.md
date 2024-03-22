@@ -20,7 +20,7 @@ showDate : true
 {{< /keywordList >}}
 
 
-[{{< icon "github" >}} Repositório](https://github.com/adilhyz/dotfiles-v1) | [{{< icon "link" >}} Demonstração](#instalasi)
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/Receitas-app) | [{{< icon "link" >}} Demonstração](https://receitas-app-rho.vercel.app/)
 
 
 

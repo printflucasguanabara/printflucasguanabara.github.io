@@ -8,7 +8,7 @@ tags: ["PHP","SQLite3","SQL", "Replit"]
 
 
 
-[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/CRUDSQlite3) | [{{< icon "link" >}} Demonstração Replit]( replit.com/@lucasffguanabar/CRUDSQlite )
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/CRUDSQlite3) | [{{< icon "link" >}} Demonstração Replit (Fork & Run!)]( https://replit.com/@lucasffguanabar/CRUDSQlite )
 
 ## Resumo do Projeto
 

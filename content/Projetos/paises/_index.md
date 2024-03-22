@@ -21,7 +21,7 @@ tags:
 Exibição de Informações sobre Países 🌍
 {{< /lead >}}
 
-[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/rest-Paises) | [{{< icon "link" >}} Tabela FIPE](https://rest-paises.vercel.app/) 
+[{{< icon "github" >}} Repositório](https://github.com/printflucasguanabara/rest-Paises) | [{{< icon "link" >}} Rest Países](https://rest-paises.vercel.app/) 
 
 
 ## Visão Geral
