@@ -8,7 +8,6 @@ draft: false
 authors:
   - lucasfguanabara
 
-showViews: true
 howLikes: true
 ---
 

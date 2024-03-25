@@ -5,7 +5,6 @@ draft: false
 ---
 
 
-faça download do meu mais atualizado curriculo
 
 <br>
 

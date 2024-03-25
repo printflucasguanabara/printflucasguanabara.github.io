@@ -26,10 +26,10 @@ layoutBackgroundHeaderSpace: false
 
 <br>
 
-- Fazendo diversos defaios variados com JS.
+- Fazendo desafios variados com JS.
 - Estudando **TypeScript** após pegar um bom conhecimento com JS Vanilla
 - Finalmente lendo o meu procrastinado livro, o **Codigo Limpo**
-- Començando a usar Linux (Manjaro), ainda utilizo ele com VMVirtualBox, penso seriamente em usar ele como OS principal.
+- Començando a usar **Linux (Manjaro)**. *Ainda utilizo ele com VMVirtualBox, vou pegar um SSD de 1TB e particionar Linux / Windows, DUAL BOOT (por enquanto não quero largar o windows de vez)*.
 
 <div class="images-inline">
     <img style="border-radius: 10%" src="book1.jpeg"/>
